@@ -1,0 +1,16 @@
+/*
+ * Project: Goofing off with ASCII
+ * Description: Goofing off with ASCII
+ * Name: Aaron 
+ * Date: Sept 18, 2015
+ */
+
+public class Ascii {
+  
+  public static void main( String[] args ) {
+  
+    
+    
+  } // end main method
+  
+} // end class
